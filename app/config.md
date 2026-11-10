@@ -6,3 +6,4 @@ city: Janakpur
 default_address: Janakpur, Dhanusha
 message_en: Hello Call Mistri Sewa, I want to book "{title}" ({id}).
 message_ne: नमस्ते कल मिस्त्री सेवा, मलाई "{title}" ({id}) चाहियो।
+version: 1.1.0

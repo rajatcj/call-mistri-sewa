@@ -1,0 +1,32 @@
+[
+ {
+  "id": "n1",
+  "title": {
+   "en": "Welcome to Call Mistri Sewa",
+   "ne": "कल मिस्त्री सेवामा स्वागत छ"
+  },
+  "text": {
+   "en": "Add your details in More so booking is one tap.",
+   "ne": "बुकिङ छिटो हुन More मा आफ्नो विवरण राख्नुहोस्।"
+  },
+  "time": {
+   "en": "Today",
+   "ne": "आज"
+  }
+ },
+ {
+  "id": "n2",
+  "title": {
+   "en": "24/7 emergency service is live",
+   "ne": "२४/७ आपतकालीन सेवा सुरु"
+  },
+  "text": {
+   "en": "Plumber, electrician and locksmith across Janakpur.",
+   "ne": "जनकपुरभर प्लम्बर, इलेक्ट्रिसियन र तालाविद्।"
+  },
+  "time": {
+   "en": "This week",
+   "ne": "यो हप्ता"
+  }
+ }
+]
