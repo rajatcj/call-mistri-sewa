@@ -1,0 +1,50 @@
+[
+ {
+  "id": "sos-lock",
+  "group": "emergency",
+  "category": "e-lock",
+  "image": "img/sos-lock.svg",
+  "title": {
+   "en": "Locked Out – Door Opening",
+   "ne": "ताला बन्द – ढोका खोल्ने"
+  },
+  "tags": {
+   "en": [
+    "24/7",
+    "Urgent"
+   ],
+   "ne": [
+    "२४/७",
+    "जरुरी"
+   ]
+  },
+  "price": 800,
+  "priceBefore": null,
+  "short": {
+   "en": "Door opened without damage.",
+   "ne": "क्षतिबिना ढोका खोल्ने।"
+  },
+  "detail": {
+   "en": "Fast dispatch across Janakpur, any hour.",
+   "ne": "जनकपुरभर जुनसुकै समय छिटो सेवा।"
+  },
+  "included": {
+   "en": [
+    "Emergency visit",
+    "Door opening"
+   ],
+   "ne": [
+    "आपतकालीन भ्रमण",
+    "ढोका खोल्ने"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Lock replacement"
+   ],
+   "ne": [
+    "ताला बदल"
+   ]
+  }
+ }
+]

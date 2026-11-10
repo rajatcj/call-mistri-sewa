@@ -1,0 +1,50 @@
+[
+ {
+  "id": "wiring-fix",
+  "group": "home",
+  "category": "electrical",
+  "image": "img/wiring-fix.svg",
+  "title": {
+   "en": "Wiring & Switch Fix",
+   "ne": "वायरिङ र स्विच मर्मत"
+  },
+  "tags": {
+   "en": [
+    "Safety",
+    "Home"
+   ],
+   "ne": [
+    "सुरक्षा",
+    "घर"
+   ]
+  },
+  "price": 400,
+  "priceBefore": null,
+  "short": {
+   "en": "Faulty switches, sockets, MCB.",
+   "ne": "बिग्रेका स्विच, सकेट, MCB।"
+  },
+  "detail": {
+   "en": "Licensed electrician diagnoses tripping, sparking or dead points.",
+   "ne": "इलेक्ट्रिसियनले ट्रिप, स्पार्क वा बन्द पोइन्ट जाँच्छ।"
+  },
+  "included": {
+   "en": [
+    "Diagnosis",
+    "Labour"
+   ],
+   "ne": [
+    "जाँच",
+    "ज्यामी"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Parts and cables"
+   ],
+   "ne": [
+    "सामान र तार"
+   ]
+  }
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "sos-short",
+  "group": "emergency",
+  "category": "e-electrical",
+  "image": "img/sos-short.svg",
+  "title": {
+   "en": "Short Circuit & Power Failure",
+   "ne": "सर्ट सर्किट र बिजुली बन्द"
+  },
+  "tags": {
+   "en": [
+    "24/7",
+    "Safety"
+   ],
+   "ne": [
+    "२४/७",
+    "सुरक्षा"
+   ]
+  },
+  "price": 900,
+  "priceBefore": null,
+  "short": {
+   "en": "Sparking, burning smell, no power.",
+   "ne": "स्पार्क, जलेको गन्ध, बत्ती बन्द।"
+  },
+  "detail": {
+   "en": "An electrician isolates the fault and restores safe power fast.",
+   "ne": "इलेक्ट्रिसियनले खराबी छुट्याएर छिटो सुरक्षित बिजुली फर्काउँछ।"
+  },
+  "included": {
+   "en": [
+    "Emergency visit",
+    "Fault finding"
+   ],
+   "ne": [
+    "आपतकालीन भ्रमण",
+    "खराबी खोज्ने"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Replacement parts"
+   ],
+   "ne": [
+    "सामान"
+   ]
+  }
+ }
+]

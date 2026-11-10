@@ -1,0 +1,104 @@
+[
+ {
+  "id": "tap-repair",
+  "group": "home",
+  "category": "plumbing",
+  "image": "img/tap-repair.svg",
+  "title": {
+   "en": "Tap & Leak Repair",
+   "ne": "धारा र चुहावट मर्मत"
+  },
+  "tags": {
+   "en": [
+    "Quick",
+    "Home"
+   ],
+   "ne": [
+    "छिटो",
+    "घर"
+   ]
+  },
+  "price": 350,
+  "priceBefore": 500,
+  "short": {
+   "en": "Fix dripping taps and small leaks.",
+   "ne": "चुहिने धारा र सानो चुहावट मर्मत।"
+  },
+  "detail": {
+   "en": "A mistri inspects and repairs leaking taps, joints and pipes. Most jobs finish in under an hour.",
+   "ne": "मिस्त्रीले धारा, जोड र पाइप जाँचेर मर्मत गर्छ। धेरैजसो काम १ घण्टाभित्र सकिन्छ।"
+  },
+  "included": {
+   "en": [
+    "Visit & inspection",
+    "Labour",
+    "Washer/seal replacement"
+   ],
+   "ne": [
+    "भ्रमण र जाँच",
+    "ज्यामी",
+    "वाशर/सिल बदल"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "New tap or pipe",
+    "Wall breaking"
+   ],
+   "ne": [
+    "नयाँ धारा/पाइप",
+    "भित्ता भत्काउने"
+   ]
+  }
+ },
+ {
+  "id": "tank-clean",
+  "group": "home",
+  "category": "plumbing",
+  "image": "img/tank-clean.svg",
+  "title": {
+   "en": "Water Tank Cleaning",
+   "ne": "पानी ट्यांकी सफाइ"
+  },
+  "tags": {
+   "en": [
+    "Hygiene",
+    "Home"
+   ],
+   "ne": [
+    "सरसफाइ",
+    "घर"
+   ]
+  },
+  "price": 1200,
+  "priceBefore": null,
+  "short": {
+   "en": "Full tank scrub and disinfection.",
+   "ne": "ट्यांकी सफा र किटाणुमुक्त।"
+  },
+  "detail": {
+   "en": "Tank emptied, scrubbed and rinsed with safe disinfectant.",
+   "ne": "ट्यांकी खाली गरी माझेर सुरक्षित औषधिले सफा गरिन्छ।"
+  },
+  "included": {
+   "en": [
+    "Equipment",
+    "Labour",
+    "Disinfectant"
+   ],
+   "ne": [
+    "उपकरण",
+    "ज्यामी",
+    "औषधि"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Tank repair"
+   ],
+   "ne": [
+    "ट्यांकी मर्मत"
+   ]
+  }
+ }
+]

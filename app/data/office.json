@@ -1,0 +1,52 @@
+[
+ {
+  "id": "office-amc",
+  "group": "business",
+  "category": "office",
+  "image": "img/office-amc.svg",
+  "title": {
+   "en": "Office Maintenance Plan",
+   "ne": "कार्यालय मर्मत योजना"
+  },
+  "tags": {
+   "en": [
+    "Monthly",
+    "Office"
+   ],
+   "ne": [
+    "मासिक",
+    "कार्यालय"
+   ]
+  },
+  "price": 5000,
+  "priceBefore": null,
+  "short": {
+   "en": "Monthly electrical, plumbing, lock checks.",
+   "ne": "मासिक बिजुली, प्लम्बिङ, ताला जाँच।"
+  },
+  "detail": {
+   "en": "Scheduled visits plus priority response for your workplace.",
+   "ne": "तोकिएको भ्रमण र प्राथमिकता सेवा।"
+  },
+  "included": {
+   "en": [
+    "2 visits/month",
+    "Priority call",
+    "Labour"
+   ],
+   "ne": [
+    "महिनामा २ भ्रमण",
+    "प्राथमिकता कल",
+    "ज्यामी"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Spare parts"
+   ],
+   "ne": [
+    "सामान"
+   ]
+  }
+ }
+]

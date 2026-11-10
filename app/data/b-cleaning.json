@@ -1,0 +1,52 @@
+[
+ {
+  "id": "office-clean",
+  "group": "business",
+  "category": "b-cleaning",
+  "image": "img/office-clean.svg",
+  "title": {
+   "en": "Office Deep Cleaning",
+   "ne": "कार्यालय गहिरो सफाइ"
+  },
+  "tags": {
+   "en": [
+    "Office",
+    "Monthly"
+   ],
+   "ne": [
+    "कार्यालय",
+    "मासिक"
+   ]
+  },
+  "price": 4500,
+  "priceBefore": 5500,
+  "short": {
+   "en": "Desks, floors, washrooms, glass.",
+   "ne": "डेस्क, भुइँ, शौचालय, सिसा।"
+  },
+  "detail": {
+   "en": "After-hours crew cleans your workplace so it opens fresh.",
+   "ne": "कार्यालय समयपछि टोलीले सफा गर्छ।"
+  },
+  "included": {
+   "en": [
+    "Crew",
+    "Equipment",
+    "Liquids"
+   ],
+   "ne": [
+    "टोली",
+    "उपकरण",
+    "तरल"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Carpet shampoo"
+   ],
+   "ne": [
+    "कार्पेट सफाइ"
+   ]
+  }
+ }
+]

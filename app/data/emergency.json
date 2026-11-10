@@ -1,0 +1,98 @@
+[
+ {
+  "id": "sos-lock",
+  "group": "emergency",
+  "category": "emergency",
+  "image": "img/sos-lock.jpg",
+  "title": {
+   "en": "Locked Out – 24/7",
+   "ne": "ताला बन्द – २४/७"
+  },
+  "tags": {
+   "en": [
+    "24/7",
+    "Urgent"
+   ],
+   "ne": [
+    "२४/७",
+    "जरुरी"
+   ]
+  },
+  "price": 800,
+  "priceBefore": null,
+  "short": {
+   "en": "Door opened without damage.",
+   "ne": "क्षतिबिना ढोका खोल्ने।"
+  },
+  "detail": {
+   "en": "Fast dispatch across Janakpur. Night charge may apply.",
+   "ne": "जनकपुरभर छिटो पठाइन्छ। रात्रि शुल्क लाग्न सक्छ।"
+  },
+  "included": {
+   "en": [
+    "Emergency visit",
+    "Door opening"
+   ],
+   "ne": [
+    "आपतकालीन भ्रमण",
+    "ढोका खोल्ने"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Lock replacement"
+   ],
+   "ne": [
+    "ताला बदल"
+   ]
+  }
+ },
+ {
+  "id": "sos-pipe",
+  "group": "emergency",
+  "category": "emergency",
+  "image": "img/sos-pipe.jpg",
+  "title": {
+   "en": "Burst Pipe / Short Circuit",
+   "ne": "पाइप फुट / सर्ट सर्किट"
+  },
+  "tags": {
+   "en": [
+    "24/7",
+    "Urgent"
+   ],
+   "ne": [
+    "२४/७",
+    "जरुरी"
+   ]
+  },
+  "price": 1000,
+  "priceBefore": null,
+  "short": {
+   "en": "Stop damage right now.",
+   "ne": "तुरुन्त क्षति रोक्ने।"
+  },
+  "detail": {
+   "en": "A mistri isolates the water or power and makes the area safe.",
+   "ne": "मिस्त्रीले पानी वा बिजुली बन्द गरी सुरक्षित बनाउँछ।"
+  },
+  "included": {
+   "en": [
+    "Emergency visit",
+    "Temporary fix"
+   ],
+   "ne": [
+    "आपतकालीन भ्रमण",
+    "अस्थायी मर्मत"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Permanent repair parts"
+   ],
+   "ne": [
+    "स्थायी मर्मतको सामान"
+   ]
+  }
+ }
+]

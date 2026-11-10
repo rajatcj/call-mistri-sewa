@@ -1,0 +1,50 @@
+[
+ {
+  "id": "sos-pipe",
+  "group": "emergency",
+  "category": "e-plumbing",
+  "image": "img/sos-pipe.svg",
+  "title": {
+   "en": "Burst Pipe & Major Leak",
+   "ne": "पाइप फुट र ठूलो चुहावट"
+  },
+  "tags": {
+   "en": [
+    "24/7",
+    "Urgent"
+   ],
+   "ne": [
+    "२४/७",
+    "जरुरी"
+   ]
+  },
+  "price": 1000,
+  "priceBefore": null,
+  "short": {
+   "en": "Water stopped and area made safe.",
+   "ne": "पानी रोकेर क्षेत्र सुरक्षित।"
+  },
+  "detail": {
+   "en": "A plumber isolates the supply and fixes the leak temporarily. Night charge may apply.",
+   "ne": "प्लम्बरले पानी बन्द गरी अस्थायी मर्मत गर्छ। रात्रि शुल्क लाग्न सक्छ।"
+  },
+  "included": {
+   "en": [
+    "Emergency visit",
+    "Temporary fix"
+   ],
+   "ne": [
+    "आपतकालीन भ्रमण",
+    "अस्थायी मर्मत"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Permanent repair parts"
+   ],
+   "ne": [
+    "स्थायी मर्मतको सामान"
+   ]
+  }
+ }
+]

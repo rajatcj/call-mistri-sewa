@@ -1,0 +1,54 @@
+[
+ {
+  "id": "deep-clean",
+  "group": "home",
+  "category": "cleaning",
+  "image": "img/deep-clean.svg",
+  "title": {
+   "en": "Home Deep Cleaning",
+   "ne": "घर गहिरो सफाइ"
+  },
+  "tags": {
+   "en": [
+    "Popular",
+    "Home"
+   ],
+   "ne": [
+    "लोकप्रिय",
+    "घर"
+   ]
+  },
+  "price": 3500,
+  "priceBefore": 4500,
+  "short": {
+   "en": "Floors, kitchen, bathrooms, windows.",
+   "ne": "भुइँ, भान्सा, बाथरुम, झ्याल।"
+  },
+  "detail": {
+   "en": "A trained crew cleans every room using their own equipment.",
+   "ne": "तालिम प्राप्त टोलीले आफ्नै उपकरणले सबै कोठा सफा गर्छ।"
+  },
+  "included": {
+   "en": [
+    "Crew of 3",
+    "Equipment",
+    "Cleaning liquids"
+   ],
+   "ne": [
+    "३ जनाको टोली",
+    "उपकरण",
+    "सफाइ तरल"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Furniture moving",
+    "Pest control"
+   ],
+   "ne": [
+    "फर्निचर सार्ने",
+    "कीरा नियन्त्रण"
+   ]
+  }
+ }
+]

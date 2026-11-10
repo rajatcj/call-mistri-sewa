@@ -1,0 +1,52 @@
+[
+ {
+  "id": "paint-room",
+  "group": "home",
+  "category": "renovation",
+  "image": "img/paint-room.svg",
+  "title": {
+   "en": "Room Painting",
+   "ne": "कोठा रङ्गाइ"
+  },
+  "tags": {
+   "en": [
+    "Renovation",
+    "Home"
+   ],
+   "ne": [
+    "नवीकरण",
+    "घर"
+   ]
+  },
+  "price": 6000,
+  "priceBefore": null,
+  "short": {
+   "en": "Walls prepared and painted.",
+   "ne": "भित्ता तयार गरी रङ्गाइ।"
+  },
+  "detail": {
+   "en": "Putty, primer and two coats. Price is per standard room.",
+   "ne": "पुट्टी, प्राइमर र दुई कोट। मूल्य प्रति सामान्य कोठा।"
+  },
+  "included": {
+   "en": [
+    "Labour",
+    "Surface prep"
+   ],
+   "ne": [
+    "ज्यामी",
+    "सतह तयारी"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Paint",
+    "Ceiling work"
+   ],
+   "ne": [
+    "रङ",
+    "सिलिङ काम"
+   ]
+  }
+ }
+]

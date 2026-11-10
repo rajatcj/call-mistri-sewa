@@ -1,0 +1,58 @@
+[
+ {
+  "id": "site-biz",
+  "group": "business",
+  "category": "website",
+  "image": "img/site-biz.svg",
+  "title": {
+   "en": "Business Website",
+   "ne": "व्यवसायिक वेबसाइट"
+  },
+  "tags": {
+   "en": [
+    "Web",
+    "SEO",
+    "Business"
+   ],
+   "ne": [
+    "वेब",
+    "SEO",
+    "व्यवसाय"
+   ]
+  },
+  "price": 15000,
+  "priceBefore": 20000,
+  "short": {
+   "en": "Fast mobile-first site, 5 pages.",
+   "ne": "छिटो मोबाइल-फर्स्ट साइट, ५ पेज।"
+  },
+  "detail": {
+   "en": "Custom design, on-page SEO, WhatsApp button and Google Maps. Delivered in 7 days.",
+   "ne": "कस्टम डिजाइन, SEO, WhatsApp बटन र नक्सा। ७ दिनमा हस्तान्तरण।"
+  },
+  "included": {
+   "en": [
+    "Design",
+    "5 pages",
+    "Basic SEO",
+    "1 month support"
+   ],
+   "ne": [
+    "डिजाइन",
+    "५ पेज",
+    "आधारभूत SEO",
+    "१ महिना सहयोग"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "Domain & hosting",
+    "Content writing"
+   ],
+   "ne": [
+    "डोमेन र होस्टिङ",
+    "सामग्री लेखन"
+   ]
+  }
+ }
+]

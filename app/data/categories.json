@@ -1,0 +1,123 @@
+[
+ {
+  "group": "home",
+  "id": "plumbing",
+  "icon": "drop",
+  "color": "#1D6FE0",
+  "name": {
+   "en": "Plumbing",
+   "ne": "प्लम्बिङ"
+  },
+  "file": "data/plumbing.json"
+ },
+ {
+  "group": "home",
+  "id": "electrical",
+  "icon": "bolt",
+  "color": "#E0A100",
+  "name": {
+   "en": "Electrical",
+   "ne": "बिजुली"
+  },
+  "file": "data/electrical.json"
+ },
+ {
+  "group": "home",
+  "id": "cleaning",
+  "icon": "sparkle",
+  "color": "#12907A",
+  "name": {
+   "en": "Cleaning",
+   "ne": "सरसफाइ"
+  },
+  "file": "data/cleaning.json"
+ },
+ {
+  "group": "home",
+  "id": "lock",
+  "icon": "lock",
+  "color": "#7B5CFF",
+  "name": {
+   "en": "Lock & Key",
+   "ne": "ताला"
+  },
+  "file": "data/lock.json"
+ },
+ {
+  "group": "home",
+  "id": "renovation",
+  "icon": "roller",
+  "color": "#D6477F",
+  "name": {
+   "en": "Renovation",
+   "ne": "नवीकरण"
+  },
+  "file": "data/renovation.json"
+ },
+ {
+  "group": "business",
+  "id": "website",
+  "icon": "monitor",
+  "color": "#0A93B8",
+  "name": {
+   "en": "Website",
+   "ne": "वेबसाइट"
+  },
+  "file": "data/website.json"
+ },
+ {
+  "group": "business",
+  "id": "office",
+  "icon": "building",
+  "color": "#4561E6",
+  "name": {
+   "en": "Office Care",
+   "ne": "कार्यालय सेवा"
+  },
+  "file": "data/office.json"
+ },
+ {
+  "group": "business",
+  "id": "b-cleaning",
+  "icon": "sparkle",
+  "color": "#12907A",
+  "name": {
+   "en": "Office Cleaning",
+   "ne": "कार्यालय सफाइ"
+  },
+  "file": "data/b-cleaning.json"
+ },
+ {
+  "group": "emergency",
+  "id": "e-plumbing",
+  "icon": "drop",
+  "color": "#E5484D",
+  "name": {
+   "en": "Plumber",
+   "ne": "प्लम्बर"
+  },
+  "file": "data/e-plumbing.json"
+ },
+ {
+  "group": "emergency",
+  "id": "e-electrical",
+  "icon": "bolt",
+  "color": "#C93A56",
+  "name": {
+   "en": "Electrician",
+   "ne": "इलेक्ट्रिसियन"
+  },
+  "file": "data/e-electrical.json"
+ },
+ {
+  "group": "emergency",
+  "id": "e-lock",
+  "icon": "lock",
+  "color": "#B8323F",
+  "name": {
+   "en": "Locksmith",
+   "ne": "तालाविद्"
+  },
+  "file": "data/e-lock.json"
+ }
+]

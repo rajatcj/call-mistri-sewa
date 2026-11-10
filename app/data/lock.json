@@ -1,0 +1,52 @@
+[
+ {
+  "id": "lock-fix",
+  "group": "home",
+  "category": "lock",
+  "image": "img/lock-fix.svg",
+  "title": {
+   "en": "Lock Repair & Change",
+   "ne": "ताला मर्मत र परिवर्तन"
+  },
+  "tags": {
+   "en": [
+    "Security",
+    "Home"
+   ],
+   "ne": [
+    "सुरक्षा",
+    "घर"
+   ]
+  },
+  "price": 500,
+  "priceBefore": null,
+  "short": {
+   "en": "Repair, rekey or replace locks.",
+   "ne": "ताला मर्मत, चाबी परिवर्तन वा नयाँ।"
+  },
+  "detail": {
+   "en": "Door, cupboard and shutter locks repaired or replaced on site.",
+   "ne": "ढोका, दराज र सटरको ताला साइटमै मर्मत वा बदल।"
+  },
+  "included": {
+   "en": [
+    "Visit",
+    "Labour",
+    "Rekeying"
+   ],
+   "ne": [
+    "भ्रमण",
+    "ज्यामी",
+    "चाबी बनाउने"
+   ]
+  },
+  "excluded": {
+   "en": [
+    "New lock cost"
+   ],
+   "ne": [
+    "नयाँ तालाको मूल्य"
+   ]
+  }
+ }
+]
