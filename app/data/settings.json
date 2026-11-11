@@ -1,0 +1,71 @@
+{
+  "brand": "Mistri Sewa",
+  "tagline": "Call Mistri",
+  "version": "1.2.0",
+  "city": "Janakpur",
+  "phone": "+9779800000000",
+  "phoneDisplay": "+977 980-0000000",
+  "whatsapp": "9779800000000",
+  "defaultAddress": "Janakpur, Dhanusha",
+  "landingUrl": "../",
+  "message": {
+    "en": "Hello Mistri Sewa, I want to book \"{title}\" ({id}).",
+    "ne": "नमस्ते मिस्त्री सेवा, मलाई \"{title}\" ({id}) चाहियो।"
+  },
+  "defaultAccent": "blue",
+  "accents": [
+    {
+      "id": "blue",
+      "name": "Blue",
+      "light": "#1F5BFF",
+      "dark": "#3D7BFF"
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "light": "#6D4AFF",
+      "dark": "#8B6CFF"
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "light": "#0E8F83",
+      "dark": "#2BD1BF"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "light": "#1B8A4A",
+      "dark": "#3DDC84"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "light": "#D6336C",
+      "dark": "#FF5C93"
+    },
+    {
+      "id": "cyan",
+      "name": "Cyan",
+      "light": "#0A87B8",
+      "dark": "#35C8F0"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "light": "#5C8A00",
+      "dark": "#B6F23A"
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "light": "#B7860B",
+      "dark": "#F5C542"
+    }
+  ],
+  "api": {
+    "enabled": true,
+    "url": "",
+    "key": ""
+  }
+}

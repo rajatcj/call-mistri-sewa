@@ -1,0 +1,5 @@
+# Local admin tool – never push
+_editor/
+*.bak
+.DS_Store
+node_modules/
