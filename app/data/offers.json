@@ -1,26 +1,26 @@
 [
- {
-  "id": "o1",
-  "title": {
-   "en": "First booking: Rs. 100 off",
-   "ne": "पहिलो बुकिङमा रु. १०० छुट"
+  {
+    "id": "o1",
+    "title": {
+      "en": "First booking: Rs. 100 off",
+      "ne": "पहिलो बुकिङमा रु. १०० छुट"
+    },
+    "text": {
+      "en": "Applied directly on first service.",
+      "ne": "WhatsApp मा FIRST100 भन्नुहोस्।"
+    },
+    "image": "img/offer1.svg"
   },
-  "text": {
-   "en": "Mention code FIRST100 on WhatsApp.",
-   "ne": "WhatsApp मा FIRST100 भन्नुहोस्।"
-  },
-  "image": "img/offer1.svg"
- },
- {
-  "id": "o2",
-  "title": {
-   "en": "Festival lights from Rs. 6,999",
-   "ne": "चाडपर्वको बत्ती रु. ६,९९९ बाट"
-  },
-  "text": {
-   "en": "Installation included.",
-   "ne": "जडान सहित।"
-  },
-  "image": "img/offer2.svg"
- }
+  {
+    "id": "o2",
+    "title": {
+      "en": "Festival lights from Rs. 6,999",
+      "ne": "चाडपर्वको बत्ती रु. ६,९९९ बाट"
+    },
+    "text": {
+      "en": "Installation included.",
+      "ne": "जडान सहित।"
+    },
+    "image": "img/offer2.svg"
+  }
 ]
